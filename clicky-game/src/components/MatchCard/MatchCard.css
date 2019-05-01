@@ -1,0 +1,19 @@
+.card {
+    background: #fff;
+    border-radius: 2px;
+    text-align: left;
+    justify-content: center;
+}
+
+.card>.img-container {
+    overflow: hidden;
+    text-align: center;
+    background: #FFFFFF;
+    justify-content: center;
+    margin: 20px;
+}
+
+.card>.img-container>img {
+    width: 150px;
+    height: 200px;
+}

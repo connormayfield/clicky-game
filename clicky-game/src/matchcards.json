@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "image": "./assets/images/Kramer.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/Jerry.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/Elaine.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/George.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/Newman.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/UncleLeo.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/FrankCostanza.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/JackieChiles.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/DavidPuddy.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/JPeterman.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/Bania.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/MickeyAbbott.jpg",
+        "clicked": false
+    }
+]
